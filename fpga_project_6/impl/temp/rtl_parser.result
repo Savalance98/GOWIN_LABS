@@ -1,0 +1,20 @@
+[
+ {
+  "InstFile" : "C:/Users/User/Desktop/GOWIN_PROJECT/GOWIN_LABS/fpga_project_6/src/TOP.v",
+  "InstLine" : 18,
+  "InstName" : "gw2a_lv18",
+  "ModuleFile" : "C:/Users/User/Desktop/GOWIN_PROJECT/GOWIN_LABS/fpga_project_6/src/TOP.v",
+  "ModuleLine" : 18,
+  "ModuleName" : "gw2a_lv18",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/User/Desktop/GOWIN_PROJECT/GOWIN_LABS/fpga_project_6/src/TOP.v",
+    "InstLine" : 26,
+    "InstName" : "dff_sync_rst_n",
+    "ModuleFile" : "C:/Users/User/Desktop/GOWIN_PROJECT/GOWIN_LABS/fpga_project_6/src/TOP.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "dff_sync_rst_n"
+   }
+  ]
+ }
+]
