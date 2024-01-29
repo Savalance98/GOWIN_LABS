@@ -1,0 +1,4 @@
+Reading netlist file: "C:\Users\User\Desktop\GOWIN_PROJECT\GOWIN_LABS\fpga_project_8\impl\gwsynthesis\fpga_project_8.vg"
+ERROR  (PA2088) : "C:\Users\User\Desktop\GOWIN_PROJECT\GOWIN_LABS\fpga_project_8\impl\gwsynthesis\fpga_project_8.vg" | Found syntax error in encrypted block, please contact the supplier who encrypted the design
+NOTE  (PA0003) : Parsing netlist file "C:\Users\User\Desktop\GOWIN_PROJECT\GOWIN_LABS\fpga_project_8\impl\gwsynthesis\fpga_project_8.vg" completed with errors
+NOTE  (PA0005) : Processing netlist completed with errors
