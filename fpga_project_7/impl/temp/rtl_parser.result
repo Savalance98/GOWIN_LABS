@@ -1,0 +1,20 @@
+[
+ {
+  "InstFile" : "C:/Users/User/Desktop/GOWIN_PROJECT/GOWIN_LABS/fpga_project_7/src/TOP.v",
+  "InstLine" : 18,
+  "InstName" : "TOP",
+  "ModuleFile" : "C:/Users/User/Desktop/GOWIN_PROJECT/GOWIN_LABS/fpga_project_7/src/TOP.v",
+  "ModuleLine" : 18,
+  "ModuleName" : "TOP",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/User/Desktop/GOWIN_PROJECT/GOWIN_LABS/fpga_project_7/src/TOP.v",
+    "InstLine" : 27,
+    "InstName" : "dff_async_rst_n",
+    "ModuleFile" : "C:/Users/User/Desktop/GOWIN_PROJECT/GOWIN_LABS/fpga_project_7/src/TOP.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "dff_async_rst_n"
+   }
+  ]
+ }
+]
