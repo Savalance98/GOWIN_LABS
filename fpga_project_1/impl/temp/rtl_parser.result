@@ -1,0 +1,20 @@
+[
+ {
+  "InstFile" : "C:/Users/User/Desktop/GOWIN_PROJECT/GOWIN_LABS/fpga_project_1/src/TOP.v",
+  "InstLine" : 14,
+  "InstName" : "gw2a_lv18",
+  "ModuleFile" : "C:/Users/User/Desktop/GOWIN_PROJECT/GOWIN_LABS/fpga_project_1/src/TOP.v",
+  "ModuleLine" : 14,
+  "ModuleName" : "gw2a_lv18",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/User/Desktop/GOWIN_PROJECT/GOWIN_LABS/fpga_project_1/src/TOP.v",
+    "InstLine" : 22,
+    "InstName" : "sr_latch",
+    "ModuleFile" : "C:/Users/User/Desktop/GOWIN_PROJECT/GOWIN_LABS/fpga_project_1/src/TOP.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "sr_latch"
+   }
+  ]
+ }
+]
