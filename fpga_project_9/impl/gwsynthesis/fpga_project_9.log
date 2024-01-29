@@ -1,0 +1,26 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'C:\Users\User\Desktop\GOWIN_PROJECT\GOWIN_LABS\fpga_project_9\src\TOP.v'
+WARN  (EX3792) : Literal value 'hf0 truncated to fit in 3 bits("C:\Users\User\Desktop\GOWIN_PROJECT\GOWIN_LABS\fpga_project_9\src\TOP.v":34)
+Compiling module 'TOP'("C:\Users\User\Desktop\GOWIN_PROJECT\GOWIN_LABS\fpga_project_9\src\TOP.v":22)
+Compiling module 'dff_async_rst_n_param(WIDTH=3,RESET=3'hf0)'("C:\Users\User\Desktop\GOWIN_PROJECT\GOWIN_LABS\fpga_project_9\src\TOP.v":1)
+NOTE  (EX0101) : Current top module is "TOP"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+[95%] Generate netlist file "C:\Users\User\Desktop\GOWIN_PROJECT\GOWIN_LABS\fpga_project_9\impl\gwsynthesis\fpga_project_9.vg" completed
+[100%] Generate report file "C:\Users\User\Desktop\GOWIN_PROJECT\GOWIN_LABS\fpga_project_9\impl\gwsynthesis\fpga_project_9_syn.rpt.html" completed
+GowinSynthesis finish

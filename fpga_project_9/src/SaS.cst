@@ -1,0 +1,28 @@
+//Copyright (C)2014-2022 Gowin Semiconductor Corporation.
+//All rights reserved. 
+//File Title: Physical Constraints file
+//GOWIN Version: 1.9.8.09 Education
+//Part Number: GW2A-LV18PG256C8/I7
+//Device: GW2A-18C
+//Created Time: Sat 05 20 13:54:05 2023
+
+IO_LOC "LED[1]" N16;
+IO_PORT "LED[1]" PULL_MODE=DOWN DRIVE=8;
+IO_LOC "LED[0]" A13;
+IO_PORT "LED[0]" PULL_MODE=DOWN DRIVE=8;
+IO_LOC "LED[2]" N14;
+IO_PORT "LED[2]" PULL_MODE=DOWN DRIVE=8;
+IO_LOC "LED[3]" L14;
+IO_PORT "LED[3]" PULL_MODE=DOWN DRIVE=8;
+IO_LOC "LED[4]" L16;
+IO_PORT "LED[4]" PULL_MODE=DOWN DRIVE=8;
+IO_LOC "btn[1]" D7;
+IO_PORT "btn[1]" PULL_MODE=UP;
+IO_LOC "btn[0]" C7;
+IO_PORT "btn[0]" PULL_MODE=UP;
+IO_LOC "btn[2]" T7;
+IO_PORT "btn[2]" PULL_MODE=UP;
+IO_LOC "btn[3]" T3;
+IO_PORT "btn[3]" PULL_MODE=UP;
+IO_LOC "btn[4]" T10;
+IO_PORT "btn[4]" PULL_MODE=UP;
