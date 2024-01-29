@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="TOP">
+    <SubModule name="d_flip_flop">
+        <SubModule name="master">
+            <SubModule name="sr_latch" Lut="1"/>
+        </SubModule>
+        <SubModule name="slave">
+            <SubModule name="sr_latch" Lut="2"/>
+        </SubModule>
+    </SubModule>
+</Module>

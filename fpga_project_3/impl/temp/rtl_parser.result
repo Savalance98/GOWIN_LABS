@@ -1,0 +1,58 @@
+[
+ {
+  "InstFile" : "C:/Users/User/Desktop/GOWIN_PROJECT/GOWIN_LABS/fpga_project_3/src/TOP.v",
+  "InstLine" : 56,
+  "InstName" : "TOP",
+  "ModuleFile" : "C:/Users/User/Desktop/GOWIN_PROJECT/GOWIN_LABS/fpga_project_3/src/TOP.v",
+  "ModuleLine" : 56,
+  "ModuleName" : "TOP",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/User/Desktop/GOWIN_PROJECT/GOWIN_LABS/fpga_project_3/src/TOP.v",
+    "InstLine" : 65,
+    "InstName" : "d_flip_flop",
+    "ModuleFile" : "C:/Users/User/Desktop/GOWIN_PROJECT/GOWIN_LABS/fpga_project_3/src/TOP.v",
+    "ModuleLine" : 28,
+    "ModuleName" : "d_flip_flop",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Users/User/Desktop/GOWIN_PROJECT/GOWIN_LABS/fpga_project_3/src/TOP.v",
+      "InstLine" : 37,
+      "InstName" : "master",
+      "ModuleFile" : "C:/Users/User/Desktop/GOWIN_PROJECT/GOWIN_LABS/fpga_project_3/src/TOP.v",
+      "ModuleLine" : 13,
+      "ModuleName" : "d_latch",
+      "SubInsts" : [
+       {
+        "InstFile" : "C:/Users/User/Desktop/GOWIN_PROJECT/GOWIN_LABS/fpga_project_3/src/TOP.v",
+        "InstLine" : 23,
+        "InstName" : "sr_latch",
+        "ModuleFile" : "C:/Users/User/Desktop/GOWIN_PROJECT/GOWIN_LABS/fpga_project_3/src/TOP.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "sr_latch"
+       }
+      ]
+     },
+     {
+      "InstFile" : "C:/Users/User/Desktop/GOWIN_PROJECT/GOWIN_LABS/fpga_project_3/src/TOP.v",
+      "InstLine" : 44,
+      "InstName" : "slave",
+      "ModuleFile" : "C:/Users/User/Desktop/GOWIN_PROJECT/GOWIN_LABS/fpga_project_3/src/TOP.v",
+      "ModuleLine" : 13,
+      "ModuleName" : "d_latch",
+      "SubInsts" : [
+       {
+        "InstFile" : "C:/Users/User/Desktop/GOWIN_PROJECT/GOWIN_LABS/fpga_project_3/src/TOP.v",
+        "InstLine" : 23,
+        "InstName" : "sr_latch",
+        "ModuleFile" : "C:/Users/User/Desktop/GOWIN_PROJECT/GOWIN_LABS/fpga_project_3/src/TOP.v",
+        "ModuleLine" : 1,
+        "ModuleName" : "sr_latch"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]
